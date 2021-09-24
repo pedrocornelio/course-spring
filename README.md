@@ -24,6 +24,6 @@ https://course-java-sb-pedro.herokuapp.com/products
 ### ORDER
 https://course-java-sb-pedro.herokuapp.com/orders
 ### OREDER ITEM
-https://course-java-sb-pedro.herokuapp.com/categories
+https://course-java-sb-pedro.herokuapp.com/odemitem
 ### PAYMENT
-https://course-java-sb-pedro.herokuapp.com/categories
+https://course-java-sb-pedro.herokuapp.com/payment
